@@ -1,0 +1,3 @@
+- compare different metrics to assess best result we obtain :)
+- change script for the one with replacements
+- create some sort of script, that would compute all metrics on final result
